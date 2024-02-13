@@ -1,0 +1,177 @@
+.vizitka {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.vizitka .overlap-group-wrapper {
+  background-image: url(./img/hlavi-ka.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 2209px;
+  height: 956px;
+}
+
+.vizitka .overlap-group {
+  position: relative;
+  height: 956px;
+  background-image: url(./img/rectangle-23.png);
+  background-size: 100% 100%;
+}
+
+.vizitka .text-wrapper {
+  position: absolute;
+  width: 1265px;
+  top: 61px;
+  left: 884px;
+  font-family: "Michroma", Helvetica;
+  font-weight: 400;
+  color: var(--iteln-zelen-pro-dokumenty);
+  font-size: 121.9px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.vizitka .ing-petr-pot-il {
+  position: absolute;
+  width: 1295px;
+  top: 257px;
+  left: 884px;
+  font-family: "Neuzeit Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 106.7px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vizitka .span {
+  color: #27b6ce;
+}
+
+.vizitka .text-wrapper-2 {
+  font-family: "Neuzeit Grotesk-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 76.2px;
+}
+
+.vizitka .mask-group {
+  position: absolute;
+  width: 828px;
+  height: 808px;
+  top: 76px;
+  left: 0;
+}
+
+.vizitka .element {
+  position: absolute;
+  height: 51px;
+  top: 462px;
+  left: 1037px;
+  font-family: "Neuzeit Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 76.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vizitka .text-wrapper-3 {
+  color: #ffffff;
+}
+
+.vizitka .text-wrapper-4 {
+  font-family: "Neuzeit Grotesk-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.vizitka .div {
+  position: absolute;
+  height: 51px;
+  top: 609px;
+  left: 1037px;
+  font-family: "Neuzeit Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 76.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vizitka .text-wrapper-5 {
+  position: absolute;
+  height: 51px;
+  top: 756px;
+  left: 1037px;
+  font-family: "Neuzeit Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 76.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vizitka .ikona-place {
+  top: 442px;
+  position: absolute;
+  width: 113px;
+  height: 113px;
+  left: 884px;
+  background-color: #ffffff;
+  border-radius: 56.5px;
+  box-shadow: inset 0px 0px 2px #00000040;
+}
+
+.vizitka .ic-outline-place {
+  position: absolute;
+  width: 88px;
+  height: 88px;
+  top: 13px;
+  left: 12px;
+}
+
+.vizitka .ikona-telefon {
+  top: 588px;
+  position: absolute;
+  width: 113px;
+  height: 113px;
+  left: 884px;
+  background-color: #ffffff;
+  border-radius: 56.5px;
+  box-shadow: inset 0px 0px 2px #00000040;
+}
+
+.vizitka .mynaui-telephone {
+  position: absolute;
+  width: 84px;
+  height: 84px;
+  top: 15px;
+  left: 14px;
+}
+
+.vizitka .group {
+  position: absolute;
+  width: 113px;
+  height: 113px;
+  top: 734px;
+  left: 884px;
+  background-color: #ffffff;
+  border-radius: 56.5px;
+  box-shadow: inset 0px 0px 2px #00000040;
+}
+
+.vizitka .mynaui-envelope {
+  position: absolute;
+  width: 76px;
+  height: 76px;
+  top: 19px;
+  left: 18px;
+}
